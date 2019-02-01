@@ -1,2 +1,4 @@
 # System-Modeling-and-Simulation
-Studying and understanding System Modeling and Simulation.
+Studying and understanding System Modeling and Simulation, by examining the network transmition of a [virus](https://github.com/TasoulasTheofanis/System-Modeling-and-Simulation/blob/master/01_Virus_Transmission/main.c), [virus and vaccines](https://github.com/TasoulasTheofanis/System-Modeling-and-Simulation/blob/master/02_Virus_And_Vaccines_Transmission_Part2/main.c), [information](https://github.com/TasoulasTheofanis/System-Modeling-and-Simulation/blob/master/03_Infortmation_Transmission/main.c) and an [earthquake simulation](https://github.com/TasoulasTheofanis/System-Modeling-and-Simulation/blob/master/04_Earthquake/main.c).
+
+## Read the full report in [English by clicking here](https://github.com/TasoulasTheofanis/Bayes-Classifier-Images-Day-Night/blob/master/Report_In_English.pdf) or in [Greek by clicking here](https://github.com/TasoulasTheofanis/System-Modeling-and-Simulation/blob/master/Προσομοίωση_και_Μοντελοποίηση_Συστημάτων.pdf)
